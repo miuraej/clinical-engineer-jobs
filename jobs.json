@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T15:04:05+09:00",
+  "generated_at": "2026-10-08T15:23:35+09:00",
   "source_count": 9,
   "jobs": [
     {
@@ -14,8 +14,8 @@
       "prefecture": "東京都",
       "url": "https://www.tmhp.jp/ohtsuka/recruit/ce2026.html",
       "status": "listed",
-      "last_checked": "2026-10-08T15:04:05+09:00",
-      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "last_checked": "2026-10-08T15:22:59+09:00",
+      "last_attempt": "2026-10-08T15:22:59+09:00",
       "fetch_status": "ok",
       "first_seen": "2026-10-08T15:04:05+09:00"
     },
@@ -30,8 +30,8 @@
       "prefecture": "東京都",
       "url": "https://www.tmhp.jp/ohtsuka/recruit/me2026.html",
       "status": "listed",
-      "last_checked": "2026-10-08T15:04:05+09:00",
-      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "last_checked": "2026-10-08T15:22:59+09:00",
+      "last_attempt": "2026-10-08T15:22:59+09:00",
       "fetch_status": "ok",
       "first_seen": "2026-10-08T15:04:05+09:00"
     },
@@ -46,8 +46,8 @@
       "prefecture": "埼玉県",
       "url": "https://www.saiseikai.gr.jp/recruit/guideline/3533/",
       "status": "ended",
-      "last_checked": "2026-10-08T15:04:05+09:00",
-      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "last_checked": "2026-10-08T15:22:59+09:00",
+      "last_attempt": "2026-10-08T15:22:59+09:00",
       "fetch_status": "ok",
       "first_seen": "2026-10-08T15:04:05+09:00"
     },
@@ -62,8 +62,8 @@
       "prefecture": "静岡県",
       "url": "https://www.numazu-hospital.shizuoka.jp/recruit/information/873.html",
       "status": "listed",
-      "last_checked": "2026-10-08T15:04:05+09:00",
-      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "last_checked": "2026-10-08T15:22:59+09:00",
+      "last_attempt": "2026-10-08T15:22:59+09:00",
       "fetch_status": "ok",
       "first_seen": "2026-10-08T15:04:05+09:00"
     },
@@ -78,8 +78,8 @@
       "prefecture": "静岡県",
       "url": "https://www.chutoen-hp.shizuoka.jp/recruit/co-medical/ce/guidelines-76693-96580/",
       "status": "ended",
-      "last_checked": "2026-10-08T15:04:05+09:00",
-      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "last_checked": "2026-10-08T15:22:59+09:00",
+      "last_attempt": "2026-10-08T15:22:59+09:00",
       "fetch_status": "ok",
       "first_seen": "2026-10-08T15:04:05+09:00"
     },
@@ -94,8 +94,8 @@
       "prefecture": "滋賀県",
       "url": "https://www.municipal-hp.hikone.shiga.jp/recruit/0000001324.html",
       "status": "listed",
-      "last_checked": "2026-10-08T15:04:05+09:00",
-      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "last_checked": "2026-10-08T15:22:59+09:00",
+      "last_attempt": "2026-10-08T15:22:59+09:00",
       "fetch_status": "ok",
       "first_seen": "2026-10-08T15:04:05+09:00"
     },
@@ -110,8 +110,8 @@
       "prefecture": "複数県",
       "url": "https://kyusyu.hosp.go.jp/profession/ce.html",
       "status": "listed",
-      "last_checked": "2026-10-08T15:04:05+09:00",
-      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "last_checked": "2026-10-08T15:22:59+09:00",
+      "last_attempt": "2026-10-08T15:22:59+09:00",
       "fetch_status": "ok",
       "first_seen": "2026-10-08T15:04:05+09:00"
     },
@@ -126,8 +126,8 @@
       "prefecture": "兵庫県",
       "url": "https://kohnan.or.jp/recruit/archives/requirements/4488-2",
       "status": "listed",
-      "last_checked": "2026-10-08T15:04:05+09:00",
-      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "last_checked": "2026-10-08T15:22:59+09:00",
+      "last_attempt": "2026-10-08T15:22:59+09:00",
       "fetch_status": "ok",
       "first_seen": "2026-10-08T15:04:05+09:00"
     },
@@ -142,8 +142,8 @@
       "prefecture": "兵庫県",
       "url": "https://kohnan.or.jp/recruit/archives/requirements/5745-2",
       "status": "listed",
-      "last_checked": "2026-10-08T15:04:05+09:00",
-      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "last_checked": "2026-10-08T15:22:59+09:00",
+      "last_attempt": "2026-10-08T15:22:59+09:00",
       "fetch_status": "ok",
       "first_seen": "2026-10-08T15:04:05+09:00"
     }
@@ -154,42 +154,42 @@
       "hospital": "東京都立大塚病院",
       "url": "https://www.tmhp.jp/ohtsuka/recruit/ce2026.html",
       "status": "ok",
-      "checked_at": "2026-10-08T15:04:05+09:00"
+      "checked_at": "2026-10-08T15:22:59+09:00"
     },
     {
       "source_id": "ohtsuka-me",
       "hospital": "東京都立大塚病院",
       "url": "https://www.tmhp.jp/ohtsuka/recruit/me2026.html",
       "status": "ok",
-      "checked_at": "2026-10-08T15:04:05+09:00"
+      "checked_at": "2026-10-08T15:22:59+09:00"
     },
     {
       "source_id": "kawaguchi",
       "hospital": "済生会川口総合病院",
       "url": "https://www.saiseikai.gr.jp/recruit/guideline/3533/",
       "status": "ok",
-      "checked_at": "2026-10-08T15:04:05+09:00"
+      "checked_at": "2026-10-08T15:22:59+09:00"
     },
     {
       "source_id": "numazu",
       "hospital": "沼津市立病院",
       "url": "https://www.numazu-hospital.shizuoka.jp/recruit/information/873.html",
       "status": "ok",
-      "checked_at": "2026-10-08T15:04:05+09:00"
+      "checked_at": "2026-10-08T15:22:59+09:00"
     },
     {
       "source_id": "chutoen",
       "hospital": "中東遠総合医療センター",
       "url": "https://www.chutoen-hp.shizuoka.jp/recruit/co-medical/ce/guidelines-76693-96580/",
       "status": "ok",
-      "checked_at": "2026-10-08T15:04:05+09:00"
+      "checked_at": "2026-10-08T15:22:59+09:00"
     },
     {
       "source_id": "hikone",
       "hospital": "彦根市立病院",
       "url": "https://www.municipal-hp.hikone.shiga.jp/recruit/0000001324.html",
       "status": "ok",
-      "checked_at": "2026-10-08T15:04:05+09:00"
+      "checked_at": "2026-10-08T15:22:59+09:00"
     },
     {
       "source_id": "nho-kanshin",
@@ -197,21 +197,21 @@
       "url": "https://kanshin.hosp.go.jp/recruit/ce/",
       "status": "error",
       "reason": "robots_unavailable",
-      "checked_at": "2026-10-08T15:04:05+09:00"
+      "checked_at": "2026-10-08T15:22:59+09:00"
     },
     {
       "source_id": "nho-kyushu",
       "hospital": "国立病院機構 九州グループ",
       "url": "https://kyusyu.hosp.go.jp/profession/ce.html",
       "status": "ok",
-      "checked_at": "2026-10-08T15:04:05+09:00"
+      "checked_at": "2026-10-08T15:22:59+09:00"
     },
     {
       "source_id": "kohnan",
       "hospital": "甲南会",
       "url": "https://kohnan.or.jp/recruit/archives/requirements_tax/me",
       "status": "ok",
-      "checked_at": "2026-10-08T15:04:05+09:00",
+      "checked_at": "2026-10-08T15:22:59+09:00",
       "discovered": 2
     },
     {
@@ -219,14 +219,14 @@
       "hospital": "甲南会",
       "url": "https://kohnan.or.jp/recruit/archives/requirements/4488-2",
       "status": "ok",
-      "checked_at": "2026-10-08T15:04:05+09:00"
+      "checked_at": "2026-10-08T15:22:59+09:00"
     },
     {
       "source_id": "kohnan",
       "hospital": "甲南会",
       "url": "https://kohnan.or.jp/recruit/archives/requirements/5745-2",
       "status": "ok",
-      "checked_at": "2026-10-08T15:04:05+09:00"
+      "checked_at": "2026-10-08T15:22:59+09:00"
     }
   ]
 }
