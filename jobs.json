@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-08T15:04:05+09:00",
+  "source_count": 9,
+  "jobs": [
+    {
+      "title": "任期付法人職員(臨床工学技士/有資格者)の募集",
+      "deadline": null,
+      "deadline_note": "公式ページで確認",
+      "employment": "任期付",
+      "id": "2db20774c05944d4",
+      "source_id": "ohtsuka-ce",
+      "hospital": "東京都立大塚病院",
+      "prefecture": "東京都",
+      "url": "https://www.tmhp.jp/ohtsuka/recruit/ce2026.html",
+      "status": "listed",
+      "last_checked": "2026-10-08T15:04:05+09:00",
+      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "fetch_status": "ok",
+      "first_seen": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "title": "任期付病院職員(臨床工学技士)の募集",
+      "deadline": null,
+      "deadline_note": "公式ページで確認",
+      "employment": "任期付",
+      "id": "d3a587ec088cecdc",
+      "source_id": "ohtsuka-me",
+      "hospital": "東京都立大塚病院",
+      "prefecture": "東京都",
+      "url": "https://www.tmhp.jp/ohtsuka/recruit/me2026.html",
+      "status": "listed",
+      "last_checked": "2026-10-08T15:04:05+09:00",
+      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "fetch_status": "ok",
+      "first_seen": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "title": "臨床工学技士",
+      "deadline": "2026-09-25",
+      "deadline_note": "公式ページで確認",
+      "employment": "常勤",
+      "id": "4a8404416ce2b39c",
+      "source_id": "kawaguchi",
+      "hospital": "済生会川口総合病院",
+      "prefecture": "埼玉県",
+      "url": "https://www.saiseikai.gr.jp/recruit/guideline/3533/",
+      "status": "ended",
+      "last_checked": "2026-10-08T15:04:05+09:00",
+      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "fetch_status": "ok",
+      "first_seen": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "title": "臨床工学技士 採用情報",
+      "deadline": null,
+      "deadline_note": "公式ページで確認",
+      "employment": "正規職員",
+      "id": "2c8c5a1d6c00bb69",
+      "source_id": "numazu",
+      "hospital": "沼津市立病院",
+      "prefecture": "静岡県",
+      "url": "https://www.numazu-hospital.shizuoka.jp/recruit/information/873.html",
+      "status": "listed",
+      "last_checked": "2026-10-08T15:04:05+09:00",
+      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "fetch_status": "ok",
+      "first_seen": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "title": "募集要項・応募方法(臨床工学技士)",
+      "deadline": "2026-07-31",
+      "deadline_note": "公式ページで確認",
+      "employment": "公式ページで確認",
+      "id": "3968c90df2208bba",
+      "source_id": "chutoen",
+      "hospital": "中東遠総合医療センター",
+      "prefecture": "静岡県",
+      "url": "https://www.chutoen-hp.shizuoka.jp/recruit/co-medical/ce/guidelines-76693-96580/",
+      "status": "ended",
+      "last_checked": "2026-10-08T15:04:05+09:00",
+      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "fetch_status": "ok",
+      "first_seen": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "title": "臨床工学技士の募集について【令和9年4月1日採用】",
+      "deadline": null,
+      "deadline_note": "公式ページで確認",
+      "employment": "公式ページで確認",
+      "id": "4ed9cda2acf93918",
+      "source_id": "hikone",
+      "hospital": "彦根市立病院",
+      "prefecture": "滋賀県",
+      "url": "https://www.municipal-hp.hikone.shiga.jp/recruit/0000001324.html",
+      "status": "listed",
+      "last_checked": "2026-10-08T15:04:05+09:00",
+      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "fetch_status": "ok",
+      "first_seen": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "title": "臨床工学技士",
+      "deadline": null,
+      "deadline_note": "公式ページで確認",
+      "employment": "常勤",
+      "id": "3efaa994d7b1cca8",
+      "source_id": "nho-kyushu",
+      "hospital": "国立病院機構 九州グループ",
+      "prefecture": "複数県",
+      "url": "https://kyusyu.hosp.go.jp/profession/ce.html",
+      "status": "listed",
+      "last_checked": "2026-10-08T15:04:05+09:00",
+      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "fetch_status": "ok",
+      "first_seen": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "title": "臨床工学技士(既卒)募集",
+      "deadline": null,
+      "deadline_note": "公式ページで確認",
+      "employment": "正職員",
+      "id": "f3451672d8cec4b4",
+      "source_id": "kohnan",
+      "hospital": "甲南会",
+      "prefecture": "兵庫県",
+      "url": "https://kohnan.or.jp/recruit/archives/requirements/4488-2",
+      "status": "listed",
+      "last_checked": "2026-10-08T15:04:05+09:00",
+      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "fetch_status": "ok",
+      "first_seen": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "title": "臨床工学技士(既卒)募集",
+      "deadline": null,
+      "deadline_note": "公式ページで確認",
+      "employment": "正職員",
+      "id": "cf8febe8368441ae",
+      "source_id": "kohnan",
+      "hospital": "甲南会",
+      "prefecture": "兵庫県",
+      "url": "https://kohnan.or.jp/recruit/archives/requirements/5745-2",
+      "status": "listed",
+      "last_checked": "2026-10-08T15:04:05+09:00",
+      "last_attempt": "2026-10-08T15:04:05+09:00",
+      "fetch_status": "ok",
+      "first_seen": "2026-10-08T15:04:05+09:00"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "ohtsuka-ce",
+      "hospital": "東京都立大塚病院",
+      "url": "https://www.tmhp.jp/ohtsuka/recruit/ce2026.html",
+      "status": "ok",
+      "checked_at": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "source_id": "ohtsuka-me",
+      "hospital": "東京都立大塚病院",
+      "url": "https://www.tmhp.jp/ohtsuka/recruit/me2026.html",
+      "status": "ok",
+      "checked_at": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "source_id": "kawaguchi",
+      "hospital": "済生会川口総合病院",
+      "url": "https://www.saiseikai.gr.jp/recruit/guideline/3533/",
+      "status": "ok",
+      "checked_at": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "source_id": "numazu",
+      "hospital": "沼津市立病院",
+      "url": "https://www.numazu-hospital.shizuoka.jp/recruit/information/873.html",
+      "status": "ok",
+      "checked_at": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "source_id": "chutoen",
+      "hospital": "中東遠総合医療センター",
+      "url": "https://www.chutoen-hp.shizuoka.jp/recruit/co-medical/ce/guidelines-76693-96580/",
+      "status": "ok",
+      "checked_at": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "source_id": "hikone",
+      "hospital": "彦根市立病院",
+      "url": "https://www.municipal-hp.hikone.shiga.jp/recruit/0000001324.html",
+      "status": "ok",
+      "checked_at": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "source_id": "nho-kanshin",
+      "hospital": "国立病院機構 関東信越グループ",
+      "url": "https://kanshin.hosp.go.jp/recruit/ce/",
+      "status": "error",
+      "reason": "robots_unavailable",
+      "checked_at": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "source_id": "nho-kyushu",
+      "hospital": "国立病院機構 九州グループ",
+      "url": "https://kyusyu.hosp.go.jp/profession/ce.html",
+      "status": "ok",
+      "checked_at": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "source_id": "kohnan",
+      "hospital": "甲南会",
+      "url": "https://kohnan.or.jp/recruit/archives/requirements_tax/me",
+      "status": "ok",
+      "checked_at": "2026-10-08T15:04:05+09:00",
+      "discovered": 2
+    },
+    {
+      "source_id": "kohnan",
+      "hospital": "甲南会",
+      "url": "https://kohnan.or.jp/recruit/archives/requirements/4488-2",
+      "status": "ok",
+      "checked_at": "2026-10-08T15:04:05+09:00"
+    },
+    {
+      "source_id": "kohnan",
+      "hospital": "甲南会",
+      "url": "https://kohnan.or.jp/recruit/archives/requirements/5745-2",
+      "status": "ok",
+      "checked_at": "2026-10-08T15:04:05+09:00"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[
+  {"id":"ohtsuka-ce","hospital":"東京都立大塚病院","prefecture":"東京都","url":"https://www.tmhp.jp/ohtsuka/recruit/ce2026.html"},
+  {"id":"ohtsuka-me","hospital":"東京都立大塚病院","prefecture":"東京都","url":"https://www.tmhp.jp/ohtsuka/recruit/me2026.html"},
+  {"id":"kawaguchi","hospital":"済生会川口総合病院","prefecture":"埼玉県","url":"https://www.saiseikai.gr.jp/recruit/guideline/3533/"},
+  {"id":"numazu","hospital":"沼津市立病院","prefecture":"静岡県","url":"https://www.numazu-hospital.shizuoka.jp/recruit/information/873.html"},
+  {"id":"chutoen","hospital":"中東遠総合医療センター","prefecture":"静岡県","url":"https://www.chutoen-hp.shizuoka.jp/recruit/co-medical/ce/guidelines-76693-96580/"},
+  {"id":"hikone","hospital":"彦根市立病院","prefecture":"滋賀県","url":"https://www.municipal-hp.hikone.shiga.jp/recruit/0000001324.html"},
+  {"id":"nho-kanshin","hospital":"国立病院機構 関東信越グループ","prefecture":"複数都県","url":"https://kanshin.hosp.go.jp/recruit/ce/"},
+  {"id":"nho-kyushu","hospital":"国立病院機構 九州グループ","prefecture":"複数県","url":"https://kyusyu.hosp.go.jp/profession/ce.html"},
+  {"id":"kohnan","hospital":"甲南会","prefecture":"兵庫県","url":"https://kohnan.or.jp/recruit/archives/requirements_tax/me","mode":"index"}
+]

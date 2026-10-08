@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="病院公式サイトから集めた臨床工学技士の採用情報。地域・キーワードで検索し、募集期限と最終確認日時を確認できます。">
+  <meta name="color-scheme" content="light"><title>CE CAREER | 臨床工学技士 採用情報</title>
+  <link rel="stylesheet" href="style.css"><script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#results">募集一覧へ</a>
+  <header class="top"><a class="brand" href="./"><span class="mark">CE</span> CE CAREER <small>臨床工学技士の採用情報</small></a><a href="#about">このサイトについて ↗</a></header>
+  <main>
+    <section class="hero"><div><p class="eyebrow">CLINICAL ENGINEERING / CAREER FINDER</p><h1>あなたの技術が、<br>次に活きる場所へ。</h1><p class="intro">病院の公式サイトに掲載された臨床工学技士の採用情報を、<br class="desktop">ひとつの場所で。地域やキーワードから、次の一歩を探せます。</p><a class="hero-link" href="#results">採用情報を探す <span>↓</span></a></div><div class="hero-art" aria-hidden="true"><div class="grid"></div><svg viewBox="0 0 400 210"><path d="M0 112 H75 L98 112 L115 83 L136 150 L162 32 L187 184 L208 104 L222 112 H400"/></svg><span class="art-caption">ENGINEERING FOR LIFE</span><div class="art-label">技術で、いのちを支える。</div></div></section>
+    <section class="summary" aria-label="収集状況"><div><strong id="total">—</strong><span>掲載情報</span></div><div><strong id="source-count">—</strong><span>収集対象の公式サイト</span></div><div class="update"><span class="dot"></span><span>毎日 6:23ごろ更新予定（日本時間）<br><small id="updated">データを読み込み中…</small></span></div></section>
+    <section class="search-panel" aria-label="採用情報の検索"><div class="search-title"><h2>採用情報を探す</h2><span>FIND YOUR NEXT OPPORTUNITY</span></div><form id="filters"><label class="keyword">キーワード<input id="q" type="search" placeholder="病院名、地域、任期付など" autocomplete="off"></label><label>地域<select id="pref"><option value="">すべての地域</option></select></label><label>掲載状況<select id="status"><option value="current">掲載あり・要確認</option><option value="listed">掲載あり</option><option value="unknown">取得状況を要確認</option><option value="ended">期限経過・終了</option><option value="all">すべて</option></select></label><button class="reset" type="reset">条件をクリア</button></form><p class="hint">「掲載あり」は募集ページの存在を示します。受付中かどうかは公式サイトでご確認ください。</p></section>
+    <section id="results" tabindex="-1"><div class="result-heading"><h2>募集一覧 <span id="count" role="status" aria-live="polite"></span></h2><label>並び順 <select id="sort"><option value="checked">確認日時が新しい順</option><option value="deadline">募集期限が近い順</option><option value="hospital">病院名順</option></select></label></div><div id="notice" role="status"></div><div id="cards" class="cards"><p>情報を読み込んでいます。</p></div></section>
+    <section id="about" class="about"><p class="eyebrow">ABOUT THIS PORTAL</p><h2>公式情報に、たどり着きやすく。</h2><div class="about-grid"><div><h3>病院公式サイトが情報源</h3><p>登録した病院・病院グループの採用ページを定期確認しています。全国すべての病院を網羅するものではありません。</p></div><div><h3>確認日時を見えるように</h3><p>募集期限は明確な記載がある場合のみ表示します。PDFのみの期限や複数日程は公式ページで確認してください。取得できなかった情報は以前の確認日時を残します。</p></div><div><h3>応募は公式サイトから</h3><p>募集条件は変更されることがあります。応募前に必ず公式サイトの募集要項をご確認ください。本サイトは病院の公式採用窓口ではありません。</p></div></div><details><summary>収集対象・取得状況を見る</summary><div id="sources"></div></details></section>
+  </main><footer><span class="brand">CE CAREER</span><span>臨床工学技士の、新しい一歩に。</span><a href="https://github.com/miuraej/clinical-engineer-jobs" target="_blank" rel="noopener noreferrer">運営・情報の修正 ↗</a></footer>
+  <noscript><p class="noscript">検索と募集一覧の表示にはJavaScriptを有効にしてください。<a href="jobs.json">採用情報のデータはこちら</a></p></noscript>
+</body></html>
